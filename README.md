@@ -18,8 +18,4 @@ A simple personal portfolio showcasing projects, skills, and contact details.
    `git clone https://github.com/<your-username>/portfolio.git`
 2. Open `PersonalPortfolio.html` in a browser.
 
-## Live Demo
-(Deploy using GitHub Pages and paste the link here)
 
-## Screenshots
-(Add images from your project)
