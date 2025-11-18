@@ -13,9 +13,6 @@ A simple personal portfolio showcasing projects, skills, and contact details.
 - CSS
 - JavaScript
 
-## How to Run
-1. Clone the repo  
-   `git clone https://github.com/<your-username>/portfolio.git`
-2. Open `PersonalPortfolio.html` in a browser.
+
 
 
